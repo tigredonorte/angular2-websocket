@@ -9,7 +9,6 @@ import { ChatComponent } from './components/chat/chat/chat.component';
 @NgModule({
     declarations: [
         AppComponent,
-        ChatComponent,
         ChatComponent
     ],
     imports: [
