@@ -1,6 +1,6 @@
 # AngularWebsocket
 
-this is front end code of websocket. If you want see [websocket backend](https://bitbucket.org/tigredonorte/angular-websocket-server)
+this is front end code of websocket. If you want see [websocket backend](https://github.com/tigredonorte/socket-webserver)
 
 # AngularCli
 
